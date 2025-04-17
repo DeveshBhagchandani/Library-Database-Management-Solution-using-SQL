@@ -1,8 +1,8 @@
-# Library-Database-Management-Solution-using-SQL
+# Library Database Management Solution using SQL Project
 
 ## Project Overview
 
-**Project Title**: BookNest- Library Database Management Solution  
+**Project Title**: BookNest: Library Database Management Solution  
 **Level**: Intermediate  
 **Database**: `booknest_db`
 

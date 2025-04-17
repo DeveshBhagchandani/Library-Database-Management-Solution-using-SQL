@@ -1,0 +1,12 @@
+emp_id,emp_name,position,salary,branch_id
+E101,Divang Sharma,Clerk,40000,B001
+E102,Mohit Mishra,Clerk,45000,B002
+E103,Atul Yadav,Librarian,55000,B001
+E104,Prachi Sharma,Assistant,60000,B001
+E105,Vikas Patel,Assistant,62000,B001
+E106,Saksham Agarwal,Assistant,63000,B001
+E107,Prakhar Gupta,Clerk,39000,B005
+E108,Rohit Sharma,Clerk,46000,B004
+E109,Vipin Malhotra,Manager,70000,B003
+E110,Shriyansh Singh,Manager,68000,B005
+E111,Parth Pandey,Assistant,65000,B005
